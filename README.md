@@ -1,3 +1,7 @@
+# AI projects with TensorFlow
+
+## Text Generation in Deep Learning with Tensorflow & Keras 
+
 ---------Temperature: 0.2---------
 rs; a silly time
 to make prescription for the fair strange:
@@ -8,6 +12,8 @@ and the sting the commont a toomen and thee thee thee thee head thee will be som
 
 camillo:
 the hand the day thee he
+
+
 ---------Temperature: 0.4---------
 urselves: farewell.
 
@@ -18,6 +24,7 @@ the send thee what was a to the grace of thee
 which shall pray thee with the king that have
 the bear of this some son and thee here is thee art thee sund
 you have stay thee say says the forth
+
 ---------Temperature: 0.6---------
 .
 
@@ -31,6 +38,7 @@ with have stays of the will thee in thee.
 camillo:
 thou wast he not he do shall be in her consord,
 and begent him that comes hoary of this lov
+
 ---------Temperature: 0.8---------
 vereign liege was in my debt
 upon remainsed or, but thee shall pointel!
