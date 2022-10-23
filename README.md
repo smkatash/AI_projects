@@ -1,6 +1,6 @@
 # AI projects with TensorFlow
 
-### [Text Generation in Deep Learning with Tensorflow & Keras] (https://github.com/smkatash/AI_projects/tree/master/text_generation)
+### [Text Generation in Deep Learning with Tensorflow & Keras](https://github.com/smkatash/AI_projects/tree/master/text_generation)\
 
 ```bash
 ---------Temperature: 0.2---------
